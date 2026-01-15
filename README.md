@@ -25,7 +25,7 @@ Python automation and secure coding practices.
 
 
 ## Project Structure
-email_sender_bot/
+
 ├── email_sender_bot.py  
 ├── recipients.csv  
 ├── attachment.pdf (optional)  
