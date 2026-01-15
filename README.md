@@ -24,14 +24,6 @@ Python automation and secure coding practices.
 - Logging module
 
 
-## Project Structure
-
-├── email_sender_bot.py  
-├── recipients.csv  
-├── attachment.pdf (optional)  
-├── email_log.txt  
-└── README.md  
-
 ## How It Works
 1. The program reads names and email addresses from a CSV file.
 2. It establishes a secure connection with Gmail SMTP using TLS.
